@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://jhanitish.github.io/csb-piqpg/static/js/main.aea3d11c.chunk.js",
+    "main.js.map": "https://jhanitish.github.io/csb-piqpg/static/js/main.aea3d11c.chunk.js.map",
+    "runtime-main.js": "https://jhanitish.github.io/csb-piqpg/static/js/runtime-main.3ef28f99.js",
+    "runtime-main.js.map": "https://jhanitish.github.io/csb-piqpg/static/js/runtime-main.3ef28f99.js.map",
+    "static/js/2.859325db.chunk.js": "https://jhanitish.github.io/csb-piqpg/static/js/2.859325db.chunk.js",
+    "static/js/2.859325db.chunk.js.map": "https://jhanitish.github.io/csb-piqpg/static/js/2.859325db.chunk.js.map",
+    "index.html": "https://jhanitish.github.io/csb-piqpg/index.html",
+    "static/js/2.859325db.chunk.js.LICENSE.txt": "https://jhanitish.github.io/csb-piqpg/static/js/2.859325db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ef28f99.js",
+    "static/js/2.859325db.chunk.js",
+    "static/js/main.aea3d11c.chunk.js"
+  ]
+}
